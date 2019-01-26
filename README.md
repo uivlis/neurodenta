@@ -1,2 +1,0 @@
-# neurodenta
-Created with CodeSandbox
